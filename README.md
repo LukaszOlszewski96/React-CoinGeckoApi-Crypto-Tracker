@@ -32,7 +32,7 @@ API Documentation: https://www.coingecko.com/pl/api/documentation
 
 To use the application clone it by typing the command at the command line:
 
-```git clone https://github.com/LauraBeatris/marketplace-rn.git```
+```git clone https://github.com/LukaszOlszewski96/React-CoinGeckoApi-Crypto-Tracker.git```
 
 Install dependencies
 
