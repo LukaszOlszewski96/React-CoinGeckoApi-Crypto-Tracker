@@ -4,6 +4,9 @@
 
 ![crypto_tracker_app](https://user-images.githubusercontent.com/57043892/137941780-75667de1-1ced-470d-9d52-1959bf46f573.PNG)
 
+You can test the application by going to the link: https://lukaszolszewski96.github.io/React-CoinGeckoApi-Crypto-Tracker/
+
+
 ## Table of contents
 
 * [General info](#general-info)
